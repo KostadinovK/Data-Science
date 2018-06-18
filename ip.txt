@@ -1,0 +1,1 @@
+IP adress for accessing lab.students.SoftUni: 23.97.184.10
