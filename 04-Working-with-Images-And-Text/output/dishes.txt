@@ -33,22 +33,3 @@ side dishes;Creamed Spinach & Leeks;8.50
 side dishes;Bamboo Steamed Vegetables;8.50
 side dishes;David Burke's Whipped Potatoes;8.50
 side dishes;Wild Mushroom Hash;8.50
-Wine by the Glass
-wine by the glass;Champagne, Taittinger "Cuvee Prestige", Brut NV France;12.75
-wine by the glass;Wine of the Day;15.00;8.00
-wine by the glass;Chardonnay, Logan "Sleepy Hollow Vineyard", 1998, Monterey;13.00;7.00
-wine by the glass;Sauvignon Blanc, Goldwater "Dog Point", 1999, NZ;11.50;6.00
-wine by the glass;Chenin Blanc, Foxen, 1999, Santa Barbara;11.00;6.00
-wine by the glass;Pinot Grigio, 1999, Danzante, Italy (Frescobaldi/Mondavi);9.00;5.00
-wine by the glass;Chateau de Poce, Touraine, 1999, Sauvignon;7.75;4.00
-wine by the glass;Merlot, Franciscan, Oakville Estate, 1997, Napa;12.75;7.00
-wine by the glass;Syrah, McDowell, 1998, Mendocino;9.50;5.00
-wine by the glass;Pinot Noir, David Bruce, 1999, "Central Coast";13.50;7.00
-wine by the glass;Zinfandel, Cline "Old Vines", 1999, Contra Costa;12.00;6.00
-wine by the glass;Cabernet Sauvignon, Farallon, 1997, North Coast;8.75;4.50
-wine by the glass;Vino Nobile di Montepulciano;13.25;7.00
-wine by the glass;Chateau, Bel Air, "Haut Médoc", 1997, Bordeaux;9.75;5.00
-wine by the glass;The Bull’s Flight;20.00
-wine by the glass;The Frog’s Flight;16.00
-wine by the glass;Mix & Match Flight;16.00
-wine by the glass;Franciscan Merlot, McDowell Syrah, Cline "Old Vines" Zinfandel 2001 The Vertical Limit;200.10
